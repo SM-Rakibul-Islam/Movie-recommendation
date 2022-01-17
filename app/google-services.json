@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362119259643",
+    "project_id": "authentication-f343e",
+    "storage_bucket": "authentication-f343e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362119259643:android:3bde3acae360613697d75e",
+        "android_client_info": {
+          "package_name": "com.example.signupsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362119259643-jd4r32amkc51ql7ven8qeorbctlm09vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vR20m8Nl8fg2awUjGhjzrNKKAfZGi7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362119259643-jd4r32amkc51ql7ven8qeorbctlm09vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
